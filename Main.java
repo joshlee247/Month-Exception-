@@ -1,9 +1,9 @@
 /*
-program name: Mortgage Calculator.java
+program name: Exception.java
 programmer: Josh Lee
 date: 12/2/20
-version: 1.4
-Creates a program in Java Swing to compute your monthly mortgage with a seamless UI.
+version: 1.4.0
+Creates a class Month that allows for both String and Int user inputs with Exceptions thrown when needed.
 */
 import java.util.Scanner;
 import java.lang.Exception;
